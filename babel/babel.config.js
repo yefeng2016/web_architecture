@@ -8,7 +8,7 @@ const presets = [
         firefox: "60",
         chrome: "67",
         safari: "11.1",
-        // ie: "8"
+        ie: "8"
       },
       "corejs": "3.0.0",
       useBuiltIns: "usage"
