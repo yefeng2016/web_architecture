@@ -1,5 +1,4 @@
-# web_architecture
-web练习
+# babel练习
 
 - test
 ```shell
